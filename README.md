@@ -16,10 +16,10 @@ This project also follows to [A successful Git branching model](https://nvie.com
 
 Due to the inefficiency to store image in git,
 all asset can be download here (from the latest version):
-<!-- [Latest Assets - Google Drive](https://drive.google.com/drive/folders/1cRH7fAbxsrEb1goTJmfLr6kXBiSfx2Sj?usp=sharing) -->
+[Latest Assets - Google Drive](https://drive.google.com/file/d/1kLeMMkS23BXHT5CUXjR9FErr7MgX6SyA/view?usp=sharing)
 
 or in the correct release note (if from other version):
-<!-- [Releases - Github](https://github.com/Fabinistere/fabien-et-la-trahison-de-olf/releases) -->
+[Releases - Github](https://github.com/Fabinistere/game_juice/releases)
 
 ## License
 
